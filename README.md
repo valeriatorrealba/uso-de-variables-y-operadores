@@ -6,7 +6,7 @@ Este proyecto es un ejercicio para practicar el uso de variables y operadores ar
 
 A continuación, se muestra el Diagrama de Flujo:
 
- ![diagramadeFlujo](img/Desafio.drawio.png)
+ ![diagramadeFlujo](assets/img/Desafio.drawio.png)
 
  ## Autor
 
